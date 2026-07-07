@@ -5,7 +5,6 @@
   
 [![GitHub followers](https://img.shields.io/github/followers/LG-leo?style=social)](https://github.com/LG-leo)
 [![GitHub stars](https://img.shields.io/github/stars/LG-leo?style=social)](https://github.com/LG-leo)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=LG-leo&label=Visitors&countColor=%23263759)](https://github.com/LG-leo)
 
 </div>
 
