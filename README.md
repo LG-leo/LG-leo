@@ -27,9 +27,7 @@ I'm rebuilding **IGCSE & AP** textbooks from scratch, because the official ones 
 
 3. i don't fork/star/give issue for the "user" anymore
 
-5. the account is a robot account
-
-7. don't believe any commit from this account
+5. something just like i star the repo
 
 ---
 
