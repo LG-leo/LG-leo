@@ -10,7 +10,7 @@
 
 ---
 
-## 🔭 What I'm currently working on
+## 🔭 What the best part of my work
 
 I'm rebuilding **IGCSE & AP** textbooks from scratch, because the official ones are **broken, missing 50–70% of content**, and full of logical jumps. These repos are my attempt to fix that.
 
