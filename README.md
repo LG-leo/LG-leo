@@ -1,7 +1,7 @@
 <!-- 头部问候与动态徽章 -->
 <div align="center">
   
-# 👋 Hi, I'm LG-leo — *a student （ye! I'm a student from ...）& open-source learner*
+# 👋 Hi, I'm LG-leo
   
 [![GitHub followers](https://img.shields.io/github/followers/LG-leo?style=social)](https://github.com/LG-leo)
 [![GitHub stars](https://img.shields.io/github/stars/LG-leo?style=social)](https://github.com/LG-leo)
