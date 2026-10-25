@@ -22,10 +22,14 @@ I'm rebuilding **IGCSE & AP** textbooks from scratch, because the official ones 
 ## declaration
 
 <img width="308" height="64" alt="image" src="https://github.com/user-attachments/assets/e1120299-01c7-4833-852a-28eff98add95" />
+
 1. the account is not my account
-2. i don't fork/star/give issue for the "user" anymore
-3. the account is a robot account
-4. don't believe any commit from this account
+
+3. i don't fork/star/give issue for the "user" anymore
+
+5. the account is a robot account
+
+7. don't believe any commit from this account
 
 ---
 
