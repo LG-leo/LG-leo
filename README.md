@@ -17,25 +17,9 @@ I'm rebuilding **IGCSE & AP** textbooks from scratch, because the official ones 
 | Project | Description | Status |
 | :--- | :--- | :--- |
 | [**IGCSE Additional Math (0606)**](https://github.com/LG-leo/IGCSE-Additional-Mathematics-Notes-0606) | (first and only one)A complete, re-ordered textbook that fills all gaps left by CUP/Hodder. Covers vectors, calculus, kinematics, and more — with worked examples and exercises. It will makes you have a easier, faster, and better learning (from 200 to 500 hours -> 70~100 Hours). --- 300to1200 clones/14 days; 120to510 unique clones/14days |  **Active** <br> [![Stars](https://img.shields.io/github/stars/LG-leo/IGCSE-Additional-Mathematics-Notes-0606?style=flat-square)](https://github.com/LG-leo/IGCSE-Additional-Mathematics-Notes-0606) [![Forks](https://img.shields.io/github/forks/LG-leo/IGCSE-Additional-Mathematics-Notes-0606?style=flat-square)](https://github.com/LG-leo/IGCSE-Additional-Mathematics-Notes-0606) |
-| [**IGCSE Chemistry Note**](https://github.com/LG-leo/IGCSE-chemistry-note) | Fixes over 60% of the missing content in Hodder's textbook — especially in Chapter 1 (particle theory) and organic chemistry. |  **Active** <br> [![Stars](https://img.shields.io/github/stars/LG-leo/IGCSE-chemistry-note?style=flat-square)](https://github.com/LG-leo/IGCSE-chemistry-note) [![Forks](https://img.shields.io/github/forks/LG-leo/IGCSE-chemistry-note?style=flat-square)](https://github.com/LG-leo/IGCSE-chemistry-note) |
-| [**IGCSE Biology Note**](https://github.com/LG-leo/IGCSE-biology-note) | Provides AO2-level explanations to help you answer questions beyond simple recall. | **Active** <br> [![Stars](https://img.shields.io/github/stars/LG-leo/IGCSE-Biology_CUP_CAIE-Note?style=flat-square)](https://github.com/LG-leo/IGCSE-biology-note) [![Forks](https://img.shields.io/github/forks/LG-leo/IGCSE-Biology_CUP_CAIE-Note?style=flat-square)](https://github.com/LG-leo/IGCSE-biology-note) |
-
----
-
-## 🧭 Next step: Pre-AP Precalculus
-
-[**Pre-AP Precalculus Note**](https://github.com/LG-leo/AP-precalculus-note) — a self-contained, step‑by‑step guide designed to prepare you for AP Calculus. This will follow the same "fill‑all‑gaps" philosophy as my other projects.
-
----
-
-## AP Physics Integration
-
-I'm currently writing a **comprehensive syllabus that combines all 4 AP Physics courses**. The goal is to eliminate the 35–60% time waste caused by content overlap and broken ordering.
-
-👉 [**AP Physics Integrated Syllabus**](https://github.com/LG-leo/AP-physics) — framework is about 25% complete.
 
 ---
 
 <div align="center">
-  <i>WHOOOOOOOO~~~~~~~~~~~~~~~~~~~</i>
+  <i>～～～～～～～～～～</i>
 </div>
